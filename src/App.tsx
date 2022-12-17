@@ -2,24 +2,22 @@ import React from 'react';
 
 import Container from 'react-bootstrap/Container';
 
-import ButtonsShowcase from './showcases/Buttons';
-import ToastsShowcase from './showcases/Toasts';
 import WetterWidget from "./widgets/Wetter";
+import KarteWidget from "./widgets/Karte";
 
 const App: React.FC = () => {
   return (
       <Container className="p-3">
         <Container className="p-5 mb-4 bg-light rounded-3">
           <h1 className="header">
-            Welcome To React-Bootstrap TypeScript Example
+            Gästeinformation
           </h1>
         </Container>
         <h2>Wetter</h2>
         <WetterWidget/>
-        <h2>Buttons</h2>
-        <ButtonsShowcase />
-        <h2>Toasts</h2>
-        <ToastsShowcase />
+        <h2></h2>
+        <h2>Karte</h2>
+        <KarteWidget />
       </Container>
   );
 };
