@@ -1,14 +1,9 @@
-import {CircleMarker, GeoJSON, MapContainer, Marker, Popup, TileLayer} from "react-leaflet";
-import React, {useEffect, useState} from "react";
+import {GeoJSON, MapContainer, TileLayer} from "react-leaflet";
+import React from "react";
 import bushaltestellen from "../bushaltestellen.json"
 import parkplaetze from "../parkplaetze.json"
 import spielplaetze from "../spielplaetze.json"
-import {circleMarker, geoJson, geoJSON, LatLng} from "leaflet";
-
-
-interface KarteWidgetProps {
-    spiel: boolean
-}
+import {circleMarker, LatLng} from "leaflet";
 
 const KarteWidget: React.FC<{spiel:boolean, park:boolean, bus:boolean}> = ({spiel, park, bus}) => {
     const b : GeoJSON.FeatureCollection = bushaltestellen as GeoJSON.FeatureCollection;

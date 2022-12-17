@@ -1,7 +1,6 @@
 import React from 'react';
 
 import events from "../events.json"
-import Container from "react-bootstrap/Container";
 import {Table} from "react-bootstrap";
 
 const EventsWidget: React.FC<{no_events:number}> = ({no_events}) =>
@@ -16,8 +15,7 @@ const EventsWidget: React.FC<{no_events:number}> = ({no_events}) =>
         </thead>
         <tbody>
     {
-        events.map((entry, i) => {
-            if (i < no_events)
+        events.splice(0, no_events).map((entry, i) => {
             return (<tr>
                 <td><b>{entry.title}</b></td>
                 <td>{entry.all_day && "ganzer Tag"}{!entry.all_day && entry.begin_time+" - "+entry.end_time}</td>

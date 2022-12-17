@@ -1,11 +1,10 @@
-import React, {useState} from 'react';
+import React from 'react';
 
 import Container from 'react-bootstrap/Container';
 
 import WetterWidget from "./widgets/Wetter";
 import KarteWidget from "./widgets/Karte";
 import EventsWidget from "./widgets/Events";
-import {FormCheck} from "react-bootstrap";
 import SocialWidget from "./widgets/Social";
 
 const App: React.FC = () => {
@@ -35,7 +34,7 @@ const App: React.FC = () => {
           {show_social && (<div><h2>Social</h2>
               <SocialWidget no_images={5}/></div>)}
           {show_map && (<div><h2>Karte</h2>
-              <KarteWidget spiel={show_spiel=="1"} park={show_park=="1"} bus={show_bus=="1"}/></div>)}
+              <KarteWidget spiel={show_spiel==="1"} park={show_park==="1"} bus={show_bus==="1"}/></div>)}
       </Container>
   );
 };
