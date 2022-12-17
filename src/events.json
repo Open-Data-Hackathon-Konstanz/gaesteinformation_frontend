@@ -1,0 +1,261 @@
+[
+  {
+    "title": "Cornelia Simon-Bach. 1941-2018. In den Träumen wohnen",
+    "category": "Ausstellung",
+    "location": {
+      "name": "Städtische Wessenberg-Galerie Konstanz",
+      "lat": 47.66338,
+      "lon": 9.17511
+    },
+    "all_day": true,
+    "image_url": "https://mein.toubiz.de/api/v1/media/f6023270-443c-4e38-b520-c9f1ca93de8c/view",
+    "link_url": "https://www.konstanz-info.com/events/event-detail#/eventDate/36fa8832-4f41-46f4-a410-1c19ba060f89"
+  },
+  {
+    "title": "\"Gans To Go\" im Steigenberger",
+    "description": "\u003cp\u003eAb dem 11. November 2022 bietet das Steigenberger Inselhotel eine ganze „Gans To Go“ für 4 Personen mit deftigen Beilagen und einer Flasche Rotwein an.\u003c/p\u003e",
+    "category": "Essen \u0026 Trinken",
+    "location": {},
+    "all_day": true,
+    "image_url": "https://mein.toubiz.de/api/v1/media/7a5902cd-e5e0-4fc7-8a12-a8e19e2ed8ce/view",
+    "link_url": "https://www.konstanz-info.com/events/event-detail#/eventDate/924f509e-70e8-40fd-8fb2-f428b8e44a98"
+  },
+  {
+    "title": "Winterausstellung 2022/23: 200 Jahre KOSMOS-Verlag",
+    "category": "Ausstellung",
+    "location": {},
+    "all_day": true,
+    "image_url": "https://mein.toubiz.de/api/v1/media/8024fe07-39f8-4fa4-883c-6c4e56d8239c/view",
+    "link_url": "https://www.konstanz-info.com/events/event-detail#/eventDate/bd6ef754-c8fe-4e11-a2ae-87137602a968"
+  },
+  {
+    "title": "Konstanz im Nationalsozialismus. 1933 - 1945",
+    "category": "Ausstellung",
+    "location": {
+      "name": "Rosgartenmuseum",
+      "lat": 47.660061,
+      "lon": 9.174933
+    },
+    "all_day": true,
+    "image_url": "https://mein.toubiz.de/api/v1/media/6dfb744d-0c44-4b6d-96d1-08790aa38319/view",
+    "link_url": "https://www.konstanz-info.com/events/event-detail#/eventDate/58d4aa24-cbc2-42b8-a49f-71db54c1fa99"
+  },
+  {
+    "title": "»Sense Of Touch« Andrea Schönborn",
+    "category": "Ausstellung",
+    "location": {
+      "name": "Kulturzentrum am Münster - Gewölbekeller",
+      "lat": 47.663252,
+      "lon": 9.174532
+    },
+    "begin_time": "10:00",
+    "end_time": "17:00",
+    "image_url": "https://mein.toubiz.de/api/v1/media/cb8ed444-72f2-49c0-82b9-de889c1f77c6/view",
+    "link_url": "https://www.konstanz-info.com/events/event-detail#/eventDate/ee425ead-0945-4073-a33f-9e4372fc9160"
+  },
+  {
+    "title": "\"Mit anderen Augen\" Eine Ausstellung von Stefanie Seltner, Susanne Smaji? und Christine Zureich",
+    "category": "Ausstellung",
+    "location": {
+      "name": "Kulturzentrum am Münster - Richental-Saal",
+      "lat": 47.66338,
+      "lon": 9.17511
+    },
+    "begin_time": "10:00",
+    "end_time": "17:00",
+    "image_url": "https://mein.toubiz.de/api/v1/media/b03354f2-b3fc-40b6-9906-7c29c1ecb9ae/view",
+    "link_url": "https://www.konstanz-info.com/events/event-detail#/eventDate/2fe25152-43f5-4727-8c2b-690e0372404c"
+  },
+  {
+    "title": "Illokonstanz Vol 03",
+    "category": "Ausstellung",
+    "location": {
+      "name": "Turm zur Katz - Kulturzentrum am Münster",
+      "lat": 47.662275,
+      "lon": 9.174679
+    },
+    "begin_time": "10:00",
+    "end_time": "17:00",
+    "image_url": "https://mein.toubiz.de/api/v1/media/e86830f4-9e9c-4776-8310-2e62ead1da0e/view",
+    "link_url": "https://www.konstanz-info.com/events/event-detail#/eventDate/7236f625-43ad-4269-8b78-196ff89ec813"
+  },
+  {
+    "title": "Jahresausstellung 2022/2023 des Kunstverein Konstanz",
+    "category": "Ausstellung",
+    "location": {
+      "name": "Kunstverein Konstanz e.V.",
+      "lat": 47.662993,
+      "lon": 9.175136
+    },
+    "begin_time": "10:00",
+    "end_time": "17:00",
+    "image_url": "https://mein.toubiz.de/api/v1/media/2cb5adec-5976-48b6-9153-0b36ae3dca9a/view",
+    "link_url": "https://www.konstanz-info.com/events/event-detail#/eventDate/4f0d31c0-0bbd-4860-9a63-d991ef76224e"
+  },
+  {
+    "title": "Kunstausstellung \"Die-5\"",
+    "category": "Ausstellung",
+    "location": {
+      "lat": 47.677031,
+      "lon": 9.161276
+    },
+    "begin_time": "11:00",
+    "end_time": "18:00",
+    "image_url": "https://mein.toubiz.de/api/v1/media/82b78919-a9d7-483a-9fad-acddf5540bdc/view",
+    "link_url": "https://www.konstanz-info.com/events/event-detail#/eventDate/2f963ee4-a0e8-4d3e-821f-bceb8d1fdf58"
+  },
+  {
+    "title": "\"Was sagst Du?\"  Römer + Römer | Jubiläumsausstellung",
+    "description": "\u003cp\u003eJubiläumsausstellung zur 25-jährigen Zusammenarbeit des Künstlerpaares\u003c/p\u003e",
+    "category": "Ausstellung",
+    "location": {},
+    "begin_time": "11:00",
+    "end_time": "18:00",
+    "image_url": "https://mein.toubiz.de/api/v1/media/0a05789e-f18a-4a9d-ae56-287d774ce23a/view",
+    "link_url": "https://www.konstanz-info.com/events/event-detail#/eventDate/e0fc6690-bbf1-4be5-be78-211d33153f39"
+  },
+  {
+    "title": "Weihnachtsmarkt am See",
+    "description": "\u003cp\u003e100.000 Lichter, das einzigartige Weihnachtsschiff mit 360°Panorama IceBar, rund 150 Hütten, Kunsthandwerk und vieles mehr erwarten die BesucherInnen hier in der Adventszeit. Von traditionellen Hütten am Hafen bis in die mit leuchtenden Sternen geschmückte Altstadt erstreckt sich der deutschlandweit bekannte Weihnachtsmarkt am See mit seinem romantischen Lichtermeer.\u003c/p\u003e",
+    "category": "Weihnachtsmarkt",
+    "location": {},
+    "begin_time": "11:00",
+    "end_time": "20:00",
+    "image_url": "https://mein.toubiz.de/api/v1/media/ec34973c-717a-45f9-8541-96a8f4bec625/view",
+    "link_url": "https://www.konstanz-info.com/events/event-detail#/eventDate/ab27cc84-2fbe-4a86-ae52-9e8d74c5326e"
+  },
+  {
+    "title": "Öffentlicher Stadtspaziergang: Alle Jahre wieder - unterwegs auf weihnachtlichen Pfaden",
+    "category": "Führung",
+    "location": {
+      "name": "Rosgartenmuseum",
+      "lat": 47.660061,
+      "lon": 9.174933
+    },
+    "begin_time": "14:00",
+    "image_url": "https://mein.toubiz.de/api/v1/media/6c1ebe24-54a8-48c6-9421-33d6400cf10b/view",
+    "link_url": "https://www.konstanz-info.com/events/event-detail#/eventDate/8354a63f-4dea-4ccd-a133-1be444b93872"
+  },
+  {
+    "title": "Winterliche Rundfahrten - der Zauber der weißen Landschaft am Bodensee",
+    "description": "\u003cp\u003e1- und 2-stündige Rundfahrten auf dem Bodensee, immer am Wochende.\u003c/p\u003e",
+    "category": "Schifffahrt",
+    "location": {},
+    "begin_time": "14:00",
+    "end_time": "16:00",
+    "image_url": "https://mein.toubiz.de/api/v1/media/bc7a6b46-9aed-4c3a-949a-27499c410ea3/view",
+    "link_url": "https://www.konstanz-info.com/events/event-detail#/eventDate/082363bf-1533-4aea-944d-5fa43db9a351"
+  },
+  {
+    "title": "Öffentlicher Stadtspaziergang: Alle Jahre wieder - unterwegs auf weihnachtlichen Pfaden",
+    "category": "Führung",
+    "location": {
+      "name": "Rosgartenmuseum",
+      "lat": 47.660061,
+      "lon": 9.174933
+    },
+    "begin_time": "14:00",
+    "image_url": "https://mein.toubiz.de/api/v1/media/6c1ebe24-54a8-48c6-9421-33d6400cf10b/view",
+    "link_url": "https://www.konstanz-info.com/events/event-detail#/eventDate/8354a63f-4dea-4ccd-a133-1be444b93872"
+  },
+  {
+    "title": "Gegenwart der Vergangenheit - Klassischer Rundgang",
+    "description": "\u003cp\u003eHighlights von Konstanz: Beim klassischen Rundgang durch die größte Stadt der Vierländerregion werden (fast) alle Sehenswürdigkeiten im historischen Zentrum besichtigt. TeilnehmerInnen erfahren zudem mehr über die bedeutsame Geschichte dieser StadtSchönheit am Bodensee...\u003cbr /\u003e\u003c/p\u003e",
+    "category": "Stadtführung",
+    "location": {},
+    "begin_time": "14:30",
+    "end_time": "16:00",
+    "image_url": "https://mein.toubiz.de/api/v1/media/8eafcf72-f918-43db-95cd-78beaf93db25/view",
+    "link_url": "https://www.konstanz-info.com/events/event-detail#/eventDate/e38aa39b-9551-4805-a3e8-929a5d13a08c"
+  },
+  {
+    "title": "\"Räuber Hotzenplotz\"",
+    "description": "\u003cp\u003e\u003cstrong\u003eTheaterspaß für Groß und Klein\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eDas Märchen- und Volkstheater St. Martin in Wollmatingen zeigt an fünf Terminen im Dezember das beliebte Stück \"Räuber Hotzenplotz\" von Ottfried Preußler.\u003c/p\u003e",
+    "category": "Kindertheater",
+    "location": {
+      "name": "Pfarrzentrum St. Martin"
+    },
+    "begin_time": "15:00",
+    "end_time": "16:00",
+    "image_url": "https://mein.toubiz.de/api/v1/media/7121d509-1795-4929-aa06-b94e84ea437a/view",
+    "link_url": "https://www.konstanz-info.com/events/event-detail#/eventDate/31d3bcbb-a3eb-463f-801b-73f086b95c9e"
+  },
+  {
+    "title": "Vom Paradies zum Rosgarten - Gewürze und Gewürzhandel",
+    "category": "Führung",
+    "location": {
+      "name": "Rosgartenmuseum",
+      "lat": 47.660061,
+      "lon": 9.174933
+    },
+    "begin_time": "15:30",
+    "image_url": "https://mein.toubiz.de/api/v1/media/2b0acc89-ec66-4dc5-84c3-07db6701644f/view",
+    "link_url": "https://www.konstanz-info.com/events/event-detail#/eventDate/21d3b62e-2d2f-4192-8328-d4f15cd18eef"
+  },
+  {
+    "title": "Weihnachtliche Wege mit dem Kaufmannspaar",
+    "description": "\u003cp\u003eDie Weihnachtszeit in Konstanz erleben: Mit dem Kaufmannspaar erfahren Interessierte Wissenswertes über weihnachtliche Traditionen, Speisen, Geheimnisse u.v.m...\u003c/p\u003e",
+    "category": "Stadtführung",
+    "location": {},
+    "begin_time": "16:30",
+    "end_time": "18:00",
+    "image_url": "https://mein.toubiz.de/api/v1/media/33e02823-7bcb-4a84-8364-d74dc816bfde/view",
+    "link_url": "https://www.konstanz-info.com/events/event-detail#/eventDate/452781a7-95eb-4a1a-ad5f-de1076a05445"
+  },
+  {
+    "title": "CHRISTMAS GARDEN Insel Mainau",
+    "description": "\u003cp\u003eDer Christmas Garden Insel Mainau ist eine vorweihnachtliche Oase, in der Freunde, Paare und die ganze Familie einen Abend in stimmungsvoller und festlicher Atmosphäre verbringen können. Der Christmas Garden entführt Sie auf einem ca. zwei Kilometer langen Rundweg über die Blumeninsel Mainau mit zahlreichen glitzernden Illuminationen in eine magische Weihnachtswelt.\u003c/p\u003e",
+    "category": "Event",
+    "location": {},
+    "begin_time": "17:30",
+    "end_time": "21:00",
+    "image_url": "https://mein.toubiz.de/api/v1/media/0dd13888-be7d-43bc-b459-641f60de4987/view",
+    "link_url": "https://www.konstanz-info.com/events/event-detail#/eventDate/c4a68f6d-299a-4d3d-b63a-281df560c288"
+  },
+  {
+    "title": "NEU: Gewürze, Gilden \u0026 grenzenloser Reichtum:  Handelsmetropole Konstanz",
+    "description": "\u003cp\u003eFaszinierende Einblicke in die einst mächtigste Handelsmetropole am Bodensee: Diese Tour durch Konstanz gibt spannende Einblicke in den längst vergangenen Alltag und Handel der ehemaligen Reichsstadt. Von Warenhandel über Gilden bis hin zu grenzenlosem Reichtum... \u003c/p\u003e",
+    "category": "Stadtführung",
+    "location": {},
+    "begin_time": "19:00",
+    "end_time": "20:30",
+    "image_url": "https://mein.toubiz.de/api/v1/media/557c16f8-bc06-4743-9cbd-98658ae48763/view",
+    "link_url": "https://www.konstanz-info.com/events/event-detail#/eventDate/acbd358c-ea49-44c9-9f49-f16f35cfe62c"
+  },
+  {
+    "title": "Aftersun",
+    "category": "Vortrag",
+    "location": {
+      "lat": 47.677949,
+      "lon": 9.173238
+    },
+    "begin_time": "19:00",
+    "end_time": "21:00",
+    "image_url": "https://mein.toubiz.de/api/v1/media/d6adf4b4-2527-413e-8760-06bf8df7bbd9/view",
+    "link_url": "https://www.konstanz-info.com/events/event-detail#/eventDate/95ea91d0-30a8-494e-9aa6-16f95551bd81"
+  },
+  {
+    "title": "Medusa",
+    "category": "Vortrag",
+    "location": {
+      "lat": 47.677949,
+      "lon": 9.173238
+    },
+    "begin_time": "21:15",
+    "end_time": "23:30",
+    "image_url": "https://mein.toubiz.de/api/v1/media/3f98eee3-9435-49bd-9d91-353bb2a3ca13/view",
+    "link_url": "https://www.konstanz-info.com/events/event-detail#/eventDate/373b802a-9b06-4868-b2ff-8f269f4e7ba4"
+  },
+  {
+    "title": "memories - one more drink she said | powered by DosMas",
+    "category": "Nightlife \u0026 Party",
+    "location": {
+      "lat": 47.6741,
+      "lon": 9.15674
+    },
+    "begin_time": "22:00",
+    "end_time": "05:00",
+    "image_url": "https://mein.toubiz.de/api/v1/media/4001896a-2d49-4077-b80b-5660bde45b51/view",
+    "link_url": "https://www.konstanz-info.com/events/event-detail#/eventDate/b7e6a37d-bea5-49e1-8293-57c7b7fc2376"
+  }
+]

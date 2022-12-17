@@ -1,17 +1,29 @@
 import React from 'react';
 
-import Button from 'react-bootstrap/Button';
+import wetter from "../wetter.json"
+import {Table} from "react-bootstrap";
 
-const getData = () => {
-    fetch("/data/weather.json").then(
-        (r) => {console.log(r)}
-    );
-    return "";
-}
 const WetterWidget: React.FC = () => (
-    <div className="p-1">
-        {getData()}
-    </div>
+    <Table>
+            <thead>
+            <tr>
+                    <th>Mittag</th>
+                    <th>Nachmittag</th>
+                    <th>Abend</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                    {wetter.map((entry) => {
+                            return (
+                                <td>
+                                        {entry.temp}°C<br/>{entry.wind}km/h<br/>{entry.rain}l
+                                </td>
+                            )
+                    })}
+            </tr>
+            </tbody>
+    </Table>
 );
 
 export default WetterWidget;
