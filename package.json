@@ -1,6 +1,7 @@
 {
   "name": "gaesteinformation_frontend",
   "version": "0.1.0",
+  "homepage": "https://open-data-hackathon-konstanz.github.io/gaesteinformation_frontend/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
